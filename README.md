@@ -10,8 +10,7 @@
 |---|---|
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) | SQLD · ADsP · Azure AI Fundamentals · e-Test OA Master · OPIc IM2 |
 
----
-
+&nbsp;
 ## 📂 Projects
 
 ### 1. 📱 (Azure 기반) 구매 데이터 기반 리콜 자동 매칭 및 경보 서비스 - Recall, The Safe Check
@@ -74,10 +73,3 @@
 
 #### 📈 결과
 - 직무/기술 트렌드를 기반으로 도서를 추천하는 서비스 컨셉과 시각화 결과물 완성
-
----
-
-## 📌 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=businesslee&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=businesslee&layout=compact&theme=default&hide_border=true)
