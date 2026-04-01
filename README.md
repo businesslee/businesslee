@@ -1,10 +1,10 @@
 # 👋 이정윤 | Jeong-yun, Lee
 
-> 안녕하세요, 단순히 분석 결과를 내는 것에 그치지 않고
-> **데이터 흐름 전체(수집 → 적재 → 시각화 → 서비스)** 이해하고 연결하는 데이터 엔지니어 이정윤입니다.
+> 안녕하세요, 단순히 분석 결과를 내는 것에 그치지 않고  
+> **데이터 흐름 전체(수집 → 적재 → 시각화 → 서비스)** 이해하고 연결하는 데이터 엔지니어 이정윤입니다.  
 
 ```
-📍 Contact.  ✉️ sophia9532@naver.com  🔗 https://github.com/businesslee
+📍 **Contact.**  ✉️ sophia9532@naver.com  🔗 https://github.com/businesslee
 ```
 
 ---
@@ -38,7 +38,7 @@ SQLD · ADsP · Azure AI Fundamentals · e-Test OA Master · OPIc IM2
 
 ### 1. 📱 (Azure 기반) 구매 데이터 기반 리콜 자동 매칭 및 경보 서비스 - Recall, The Safe Check
 
-> **역할:** DB/ERD 설계, React Native 프론트엔드 개발  |  **기간:** 2026.01.12 ~ 2026.02.27  |  **[🔗 GitHub Repository](https://github.com/2dt-final-team/Recall-Project)**
+> **역할:** DB/ERD 설계, React Native 프론트엔드 개발  |  **기간:** 2026.01.12 ~ 2026.02.27  |  **[🔗Repository](https://github.com/2dt-final-team/Recall-Project)**
 
 #### 💡 요약
 구매 데이터 기반으로 리콜 발생 시 사용자가 등록한 제품과 자동 매칭해 알람과 조치 정보를 제공하는 모바일 서비스
@@ -60,7 +60,7 @@ SQLD · ADsP · Azure AI Fundamentals · e-Test OA Master · OPIc IM2
 
 ### 2. 🏭 (Azure 기반) 실시간 예지보전 및 전력 사용량 예측 기반 스케줄링 최적화 시스템 - FacFLEXity
 
-> **역할:** 팀장, ML 실험 학습, React 웹 대시보드 개발  | **기간:** 2025.12.10 ~ 2025.12.23  |  **[🔗 GitHub Repository](https://github.com/2dt-2nd-team/FacFLEXity-web)**
+> **역할:** 팀장, ML 실험 학습, React 웹 대시보드 개발  | **기간:** 2025.12.10 ~ 2025.12.23  |  **[🔗Repository](https://github.com/2dt-2nd-team/FacFLEXity-web)**
 
 #### 💡 요약
 스마트팩토리 설비 예지보전 + 전력 사용량 예측을 통합해 즉시 적용 가능한 의사결정을 보조하는 시스템
@@ -68,7 +68,7 @@ SQLD · ADsP · Azure AI Fundamentals · e-Test OA Master · OPIc IM2
 #### 🎯 주요 기여
 - 팀장으로서 주제 정의, 역할 분담, Miro·Notion·GitHub 기반 협업 운영
 - Databricks Bronze–Silver–Gold 메달리온 파이프라인 구조 정리 및 멀티모달(센서+열화상) 예지보전 모델 실험 참여
-- `Vite + React + TypeScript` 기반 웹 대시보드 구현 (공정 스케줄 타임라인, 전력량 예측 모니터링, Conveyor 상태 화면)
+- `Vite + React + TypeScript` 기반 웹 대시보드 구현 (공정 스케줄 타임라인, 전력량 예측 모니터링, Conveyor 상태 화면 등)
 
 #### 🧰 기술 스택
 `React` `TypeScript` `Vite` `Databricks` `Python` `Azure ML` `SQL
@@ -81,7 +81,7 @@ SQLD · ADsP · Azure AI Fundamentals · e-Test OA Master · OPIc IM2
 
 ### 3. 🔖 직무/기술 트렌드 기반 도서 추천 플랫폼 - Book Recommendation Platform
 
-> **역할:** 팀장, Power BI 시각화 | **기간:** 2025.10.20 ~ 2025.11.19  |  **[🔗 GitHub Repository](https://github.com/CCPP-1st-team/Book-Recommendation-Platform)**
+> **역할:** 팀장, Power BI 시각화 | **기간:** 2025.10.20 ~ 2025.11.19  |  **[🔗Repository](https://github.com/CCPP-1st-team/Book-Recommendation-Platform)**
 
 #### 💡 요약
 채용공고 기반 직무 트렌드를 분석해, 신입/전직자에게 맞춤 도서를 추천하는 지식 플랫폼 서비스 구현
