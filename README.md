@@ -1,10 +1,7 @@
-# 👋 이정윤 | Jeongyun Lee
+# 👋 이정윤 | Jeong-yun, Lee
 
-> **Data Engineer · Frontend Developer · BI Analyst**  
-
-
-안녕하세요, 단순히 분석 결과를 내는 것에 그치지 않고
-**데이터 흐름 전체(수집 → 적재 → 시각화 → 서비스)** 이해하고 연결하는 데이터 엔지니어 이정윤입니다.
+> 안녕하세요, 단순히 분석 결과를 내는 것에 그치지 않고
+> **데이터 흐름 전체(수집 → 적재 → 시각화 → 서비스)** 이해하고 연결하는 데이터 엔지니어 이정윤입니다.
 
 ```
 📍 Contact.  ✉️ sophia9532@naver.com  🔗 https://github.com/businesslee
@@ -39,7 +36,7 @@ SQLD · ADsP · Azure AI Fundamentals · e-Test OA Master · OPIc IM2
 
 ## 📂 Projects
 
-### 1. 📱 (Azure 기반) 구매 데이터 기반 리콜 자동 매칭 및 경보 서비스 — Recall, The Safe Check
+### 1. 📱 (Azure 기반) 구매 데이터 기반 리콜 자동 매칭 및 경보 서비스 - Recall, The Safe Check
 
 > **역할:** DB/ERD 설계, React Native 프론트엔드 개발  |  **기간:** 2026.01.12 ~ 2026.02.27  |  **[🔗 GitHub Repository](https://github.com/2dt-final-team/Recall-Project)**
 
@@ -61,7 +58,7 @@ SQLD · ADsP · Azure AI Fundamentals · e-Test OA Master · OPIc IM2
 
 ---
 
-### 2. 🏭 (Azure 기반) 실시간 예지보전 및 전력 사용량 예측 기반 스케줄링 최적화 시스템 — FacFLEXity
+### 2. 🏭 (Azure 기반) 실시간 예지보전 및 전력 사용량 예측 기반 스케줄링 최적화 시스템 - FacFLEXity
 
 > **역할:** 팀장, ML 실험 학습, React 웹 대시보드 개발  | **기간:** 2025.12.10 ~ 2025.12.23  |  **[🔗 GitHub Repository](https://github.com/2dt-2nd-team/FacFLEXity-web)**
 
@@ -82,7 +79,7 @@ SQLD · ADsP · Azure AI Fundamentals · e-Test OA Master · OPIc IM2
 
 ---
 
-### 3. 🔖 직무/기술 트렌드 기반 도서 추천 플랫폼 — Book Recommendation Platform
+### 3. 🔖 직무/기술 트렌드 기반 도서 추천 플랫폼 - Book Recommendation Platform
 
 > **역할:** 팀장, Power BI 시각화 | **기간:** 2025.10.20 ~ 2025.11.19  |  **[🔗 GitHub Repository](https://github.com/CCPP-1st-team/Book-Recommendation-Platform)**
 
