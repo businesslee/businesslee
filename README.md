@@ -3,11 +3,7 @@
 > 안녕하세요, 단순히 분석 결과를 내는 것에 그치지 않고  
 > **데이터 흐름 전체(수집 → 적재 → 시각화 → 서비스)** 이해하고 연결하는 데이터 엔지니어 이정윤입니다.  
 
-```
 📍 **Contact.**  ✉️ sophia9532@naver.com  🔗 https://github.com/businesslee
-```
-
----
 
 ## 🛠 Skills
 
@@ -25,8 +21,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
 
 ## 📌 Certificates
 
