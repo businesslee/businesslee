@@ -1,7 +1,7 @@
 # 👋 이정윤 | Jeong-yun, Lee
 
 > 안녕하세요, 단순히 분석 결과를 내는 것에 그치지 않고  
-> **데이터 흐름 전체(수집 → 적재 → 시각화 → 서비스)** 를 이해하고 연결하는 데이터 엔지니어 이정윤입니다.  
+> **데이터 흐름 전체(수집 → 적재 → 시각화 → 서비스)** 를 이해하고 연결하는 데이터 분석가 이정윤입니다.  
 
 📍 **Contact.**  ✉️ sophia9532@naver.com  🔗 https://github.com/businesslee
 
@@ -48,7 +48,7 @@
 - `Vite + React + TypeScript` 기반 웹 대시보드 구현 (공정 스케줄 타임라인, 전력량 예측 모니터링, Conveyor 상태 화면 등)
 
 #### 🧰 기술 스택
-`React` `TypeScript` `Vite` `Databricks` `Python` `Azure ML` `SQL
+`React` `TypeScript` `Vite` `Databricks` `Python` `Azure ML` `SQL`
 
 #### 📈 결과
 - 전력 비용 절감·설비 고장 리스크 감소, 투명한 의사결정 지원
